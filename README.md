@@ -14,3 +14,5 @@ Built with scalability, low-latency, and high availability utilizing a massive P
 Use the included Kubernetes manifests to deploy to your cluster.
 
 *Property of vertica716.*
+
+- Automated update for PR #4-1790404827-760
